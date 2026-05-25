@@ -58,27 +58,6 @@ Focused on writing maintainable code and building experiences that users actuall
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![JobRouter](https://img.shields.io/badge/JobRouter-0057A8?style=flat-square&logoColor=white)
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Thushakaran&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thushakaran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Thushakaran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
 
 <div align="center">
 
