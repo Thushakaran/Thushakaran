@@ -63,15 +63,11 @@ Focused on writing maintainable code and building experiences that users actuall
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thushakaran&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thushakaran&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+| Stats | Top Languages |
+|:-----:|:-------------:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thushakaran&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushakaran&layout=compact&theme=tokyonight&hide_border=true) |
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thushakaran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thushakaran&theme=tokyonight&hide_border=true)
 
 </div>
 
