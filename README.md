@@ -62,12 +62,18 @@ Focused on writing maintainable code and building experiences that users actuall
 ## GitHub Stats
 
 <div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Thushakaran&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thushakaran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-| Stats | Top Languages |
-|:-----:|:-------------:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thushakaran&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushakaran&layout=compact&theme=tokyonight&hide_border=true) |
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thushakaran&theme=tokyonight&hide_border=true)
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Thushakaran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
