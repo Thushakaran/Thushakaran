@@ -115,10 +115,16 @@ I'm a full-stack developer who enjoys turning ideas into clean, scalable web app
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Thushakaran&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thushakaran&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Thushakaran&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Thushakaran&show_icons=true&theme=default&hide_border=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Thushakaran&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thushakaran&layout=compact&theme=default&hide_border=true" />
+</picture>
 
-<img src="https://streak-stats.demolab.com?user=Thushakaran&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Thushakaran&hide_border=true&theme=default" alt="GitHub streak" />
 
 </div>
 
