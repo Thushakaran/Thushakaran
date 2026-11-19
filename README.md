@@ -134,8 +134,6 @@ I'm a full-stack developer who enjoys turning ideas into clean, scalable web app
     src="https://streak-stats.demolab.com?user=Thushakaran&hide_border=true&theme=default" />
 </picture>
 
-<img src="https://streak-stats.demolab.com?user=Thushakaran&hide_border=true&theme=default" alt="GitHub streak" />
-
 </div>
 
 ---
