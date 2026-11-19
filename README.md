@@ -117,10 +117,14 @@ I'm a full-stack developer who enjoys turning ideas into clean, scalable web app
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Thushakaran&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&cache_seconds=1800" />
-  <img height="170" alt="GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=Thushakaran&show_icons=true&include_all_commits=true&theme=default&hide_border=true&cache_seconds=1800" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Thushakaran&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&v=2"
+  />
+  <img
+    alt="GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=Thushakaran&show_icons=true&theme=default&hide_border=true&cache_seconds=1800&v=2"
+  />
 </picture>
 
 <picture>
